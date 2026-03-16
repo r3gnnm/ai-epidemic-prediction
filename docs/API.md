@@ -50,10 +50,10 @@ Creates an interactive 4-layer Folium map with risk analysis and vaccination pla
 - `unified_satellite_comfort_lives_data.csv` - Detailed zone data (23 columns)
 
 **Map Layers:**
-1. 💊 Lives Saved & Priorities - Circles sized by lives saved, colored by priority
-2. 🦠 Bacteria Comfort Heatmap - Risk gradient (green→red)
-3. ✅ Lives Saved Heatmap - Impact visualization
-4. 🛰️ Satellite Data Points - Detailed environmental data markers
+1. Lives Saved & Priorities - Circles sized by lives saved, colored by priority
+2. Bacteria Comfort Heatmap - Risk gradient (green→red)
+3. Lives Saved Heatmap - Impact visualization
+4. Satellite Data Points - Detailed environmental data markers
 
 **Example:**
 ```python
