@@ -6,17 +6,17 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
-## 🎯 Overview
+## Overview
 
 This system predicts epidemic outbreaks **2-4 weeks before they occur** with 94.2% accuracy by analyzing:
-- 🛰️ Real-time satellite imagery (Sentinel-2, Landsat)
-- 🌡️ Climate data (temperature, humidity, precipitation)
-- 🤖 Machine learning predictions (Random Forest)
-- 💬 AI-powered analysis (Anthropic Claude)
+- Real-time satellite imagery (Sentinel-2, Landsat)
+- Climate data (temperature, humidity, precipitation)
+- Machine learning predictions (Random Forest)
+- AI-powered analysis (Anthropic Claude)
 
 **Impact**: In a Manila pilot study, the system predicted an outbreak saving **2,339 lives** at **$8,417 per life** (vs $50,000-100,000 for traditional programs).
 
-## ⚡ Key Features
+## Key Features
 
 - **Early Warning**: Predicts outbreaks 2-4 weeks in advance (vs competitors who react AFTER cases appear)
 - **High Accuracy**: 94.2% prediction accuracy (validated on 127 historical outbreaks)
@@ -28,7 +28,7 @@ This system predicts epidemic outbreaks **2-4 weeks before they occur** with 94.
 - **Actionable Plans**: Generates ready-to-use vaccination plans with cost-benefit analysis
 - **Global Coverage**: Works anywhere on Earth (satellite-based, no infrastructure needed)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -78,7 +78,7 @@ answer = assistant.ask("Which zones need immediate vaccination?")
 print(answer)
 ```
 
-## 📊 Results
+## Results
 
 ### Manila Case Study
 - **Population**: 1,250,000 at risk
@@ -94,7 +94,7 @@ print(answer)
 - **Correlation with actual outbreaks**: R² = 0.87
 - **Average error**: 5.8%
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 **Core**:
 - Python 3.8+
@@ -118,7 +118,7 @@ print(answer)
 - Sentinel-2 (10m resolution)
 - Landsat 8/9 (30m resolution)
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 ai-epidemic-prediction/
@@ -135,7 +135,7 @@ ai-epidemic-prediction/
 └── requirements.txt       # Dependencies
 ```
 
-## 📈 Competitive Advantages
+## Competitive Advantages
 
 | Feature | Our System | Competitors |
 |---------|------------|-------------|
@@ -147,7 +147,7 @@ ai-epidemic-prediction/
 | **Deployment** | 1 day | 6-12 months |
 | **Coverage** | Global | Infrastructure-dependent |
 
-## 🌍 Use Cases
+## Use Cases
 
 - **Governments**: Early warning systems for national health ministries
 - **Pharmaceuticals**: Clinical trial site selection and vaccine deployment
@@ -155,13 +155,13 @@ ai-epidemic-prediction/
 - **Research**: Epidemiological studies and climate-health correlations
 - **Insurance**: Epidemic risk underwriting
 
-## 📚 Documentation
+## Documentation
 
 - [Full Documentation](docs/) - Detailed guides and API reference
 - [Presentation](docs/PRESENTATION.md) - Project presentation script
 - [Examples](examples/) - Code examples
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Please:
 1. Fork the repository
@@ -170,23 +170,23 @@ Contributions welcome! Please:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Satellite Data**: Google Earth Engine, Copernicus Sentinel, USGS Landsat
 - **Climate Data**: NASA POWER, Open-Meteo
 - **AI**: Anthropic Claude
 - **Inspiration**: WHO Early Warning Systems, HealthMap
 
-## 📞 Contact
+## Contact
 
 **Project Link**: [https://github.com/YOUR_USERNAME/ai-epidemic-prediction](https://github.com/YOUR_USERNAME/ai-epidemic-prediction)
 
 ---
 
-⭐ **If you find this project useful, please star it on GitHub!** ⭐
+**If you find this project useful, please star it on GitHub!** 
 
 Made with ❤️ for global health
