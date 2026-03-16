@@ -63,7 +63,7 @@ def ai_enhanced_example(vaccination_plan, disease_profile, summary):
     assistant = ai_results['ai_assistant']
     
     # Ask questions
-    print("\n🤖 AI Assistant Demo:")
+    print("\n AI Assistant Demo:")
     
     questions = [
         "Which zones need immediate vaccination?",
@@ -78,7 +78,7 @@ def ai_enhanced_example(vaccination_plan, disease_profile, summary):
     
     # Get ML predictions
     ml_predictor = ai_results['ml_predictor']
-    print(f"\n✅ ML model trained with {len(enhanced_plan)} zones")
+    print(f"\n ML model trained with {len(enhanced_plan)} zones")
     
     # Create enhanced map
     create_unified_map(
@@ -133,7 +133,7 @@ def single_zone_example():
         disease_profile
     )
     
-    print("\n🦠 Bacteria Comfort Index Analysis:")
+    print("\n Bacteria Comfort Index Analysis:")
     print(f"Overall Comfort: {comfort['overall_comfort']:.1f}%")
     print(f"Risk Level: {comfort['comfort_level']}")
     print(f"\nFactors:")
