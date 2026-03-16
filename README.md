@@ -181,10 +181,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 - **AI**: Anthropic Claude
 - **Inspiration**: WHO Early Warning Systems, HealthMap
 
-## Contact
-
-**Project Link**: [https://github.com/YOUR_USERNAME/ai-epidemic-prediction](https://github.com/YOUR_USERNAME/ai-epidemic-prediction)
-
 ---
 
 **If you find this project useful, please star it on GitHub!** 
